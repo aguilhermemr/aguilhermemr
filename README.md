@@ -12,7 +12,8 @@ Formado em Engenharia de Sistemas, com pós-graduação em Inteligência Artific
 
 | Projeto | Do que se trata |
 |---|---|
-| [**tcc_senac_agmr**](https://github.com/aguilhermemr/tcc_senac_agmr) | TCC da pós: agente de Reinforcement Learning (PPO) com Graph Attention Network para otimizar workflows BPMN do Camunda 8. |
+| [**tcc_senac_agmr**](https://github.com/aguilhermemr/tcc_senac_agmr) | TCC da Especialização em IA (Senac, 2026): agente de Reinforcement Learning (PPO) com Graph Attention Network para otimizar workflows BPMN do Camunda 8. [PDF](https://github.com/aguilhermemr/tcc_senac_agmr/blob/main/docs/TCC_Senac_AGMR_2026.pdf) |
+| [**Proyecto de Grado AGMR**](https://github.com/aguilhermemr/Proyecto-de-Grado-AGMR-repositorio-de-contratacion) | Projeto de graduação em Engenharia de Sistemas (UCB, 2018, nota 85 com menção honrosa): processo BPM de contratação que decide com lógica difusa (MATLAB) via API REST em VB.NET. |
 | [**Detecção de fraude**](https://github.com/aguilhermemr/senac-pos-ia-ml-project-fraud) | Projeto em grupo da pós: comparação de modelos em dados muito desbalanceados e ajuste de threshold; XGBoost com Average Precision de 0,87. |
 | [**Previsão de churn**](https://github.com/aguilhermemr/senac-pos-ia-sad-client-churn) | Exemplo da disciplina trabalhado em grupo: regressão logística L1 com SMOTE e relatório de apoio à decisão para retenção. |
 
@@ -22,6 +23,6 @@ Python · PyTorch · PyTorch Geometric · Stable-Baselines3 · scikit-learn · X
 
 ## Formação e certificações
 
-- Pós-graduação lato sensu em Inteligência Artificial — Senac (2025–2026)
+- Especialização em Inteligência Artificial — Centro Universitário Senac (2025–2026)
 - Bacharelado em Engenharia de Sistemas — Universidad Católica Boliviana
 - Formação Cisco CCNA v7.0: três cursos concluídos com [insígnias verificadas no Credly](https://www.credly.com/users/angel-guillermo-morales-romero); exame de certificação em preparação
